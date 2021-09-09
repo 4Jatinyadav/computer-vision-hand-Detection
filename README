@@ -1,0 +1,6 @@
+It is hand detection project in which CNN concept which detects hand if it cross certain threshold with confidance and rectangular frame
+To run the project open in pycharm  and do following step:
+1)Install requirements.txt file just copy and paste this pip install -r requirements.txt
+2)In alertcheck.py change directory as per your divice in playground
+3)Run hand_detection.py 
+4)To close pop up window Press Q 
